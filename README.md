@@ -1,2 +1,1 @@
-# machine-learning-course
-IDS-705
+# IDS-705 principle of machine learning
